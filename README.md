@@ -1,6 +1,6 @@
 ## Luca Lobefaro
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l00p3&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l00p3&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **l00p3/l00p3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
