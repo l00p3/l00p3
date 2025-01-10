@@ -1,6 +1,6 @@
 ## Luca Lobefaro
 
-- 🔭 I’m currently a PhD student at the University of Bonn, Germany
+🔭 I’m currently a PhD student at the University of Bonn, Germany
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l00p3&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
